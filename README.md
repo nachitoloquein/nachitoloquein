@@ -1,1 +1,1 @@
-# Hello friend
+<h2 align="center">Hello Friend</h2>
