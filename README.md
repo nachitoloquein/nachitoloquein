@@ -3,7 +3,7 @@
 
 <p align="center">Hello friend, I’m just an anonymous guy who seeks to improve his skills day by day </p>
 <p align="center">Some of programming languages that i dominate: </p>
-<div>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100">
