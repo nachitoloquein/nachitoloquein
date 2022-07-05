@@ -3,9 +3,11 @@
 
 <p align="center">Hello friend, I’m just an anonymous guy who seeks to improve his skills day by day </p>
 <p align="center">Some of programming languages that i dominate: </p>
+<div>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
+</div>
