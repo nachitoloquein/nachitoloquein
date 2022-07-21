@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
-  <img src="http://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png" height="100">
+  <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" height="100">
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="100">
 </div>
