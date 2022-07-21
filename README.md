@@ -1,14 +1,18 @@
 <h1 align="center">Welcome To My Mind</h1>
-<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1616187564959741140/686767DFAF7DBA57D51135EFA680D7F1A9A2D254/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300" height="300"/></p>
+<p align="center"><img src="https://c.tenor.com/3HrIbcsMx-8AAAAC/f-society-mask.gif"/></p>
 
-<p align="center">Hello friend, I’m just an anonymous guy who seeks to improve his skills day by day </p>
+<h2 align="center">👾 Sam Sapiens</h2>
+
+<p align="center">Hello friend, I’m just a guy who seeks to improve his skills day by day </p>
+
+<h2 align="center">🖥️ Skills</h2>
 <p align="center">Some of programming languages that i dominate: </p>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
 </div>
