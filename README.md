@@ -5,8 +5,7 @@
 
 <p align="center">Hello friend, I’m just a guy who seeks to improve his skills day by day </p>
 
-<h2 align="center">🖥️ Skills</h2>
-<p align="center">Some of programming languages that i dominate: </p>
+<h2 align="center">🖥️ Tech Stacks: </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
