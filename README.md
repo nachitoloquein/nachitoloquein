@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To My Mind</h1>
-<p align="center"><img src="https://i.gifer.com/6nOF.gif"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif"/></p>
 
 <h2 align="center">🦇 Sam Sapiens</h2>
 
