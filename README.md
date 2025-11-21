@@ -7,11 +7,11 @@
 
 <h2 align="center">💻 Tech Stacks: </h2>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
+<img src="./img/python.png" height="100">
+  <img src="./img//javascript.png" height="100">
+  <img src="./img/sql.png" height="100">
+  <img src="./img/csharp.png" height="100">
+  <img src="./img/java.png" height="100">
+  <img src="./img/php.png" height="100">
+  <img src="./img/typescript.png" height="100">
 </div>
