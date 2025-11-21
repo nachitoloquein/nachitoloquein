@@ -10,10 +10,8 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100">
-  <img src="https://www.svgrepo.com/show/374112/swift.svg" height="100">
 </div>
