@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To My Mind</h1>
-<p align="center"><img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif"/></p>
+<p align="center"><img src="./gif/8_bits_ds3.gif"/></p>
 
 <h2 align="center">🦇 Sam Sapiens</h2>
 
@@ -9,7 +9,7 @@
 <div align="center">
 <img src="./img/python.png" height="100">
   <img src="./img//javascript.png" height="100">
-  <img src="./img/sql.png" height="100">
+  <img src="./img/pgsql.png" height="100">
   <img src="./img/csharp.png" height="100">
   <img src="./img/java.png" height="100">
   <img src="./img/php.png" height="100">
