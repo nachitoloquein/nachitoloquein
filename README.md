@@ -18,6 +18,6 @@
 
 <h2 align="center">🤖 IA Stacks: </h2>
 <div align="center">
-<img src="./svg/claude.svg" height="100">
-  <img src="./svg/codex.svg" height="100">
+  <img src="./svg/claude.svg" height="100">
+  <img src="./svg/gpt.svg" height="100">
 </div>
